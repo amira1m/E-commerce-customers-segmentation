@@ -1,8 +1,8 @@
-Customer Segmentation Using Machine Learning
-Project Overview
+Customer Segmentation Project 
+Overview : 
 This project applies unsupervised learning to segment customers based on their transactional behavior. By understanding customer interactions, businesses can design targeted marketing strategies to improve engagement and retention.
 
-Approach
+Approach : 
 1. Data Processing
 Loaded customer, transaction, and branch data from an Excel file.
 Merged relevant tables to create a complete customer profile.
